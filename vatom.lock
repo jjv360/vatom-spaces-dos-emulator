@@ -1,0 +1,15 @@
+{
+  "id": "com.jjv360.emulators",
+  "name": "Emulators",
+  "version": "1.0.0",
+  "beta": true,
+  "personalPlugin": true,
+  "description": "Run game emulators in the Metaverse.",
+  "longDescription": ".",
+  "configuration": ".",
+  "category": "Games",
+  "businessId": ".",
+  "price": 0,
+  "releaseNotes": ".",
+  "entrypoint": ""
+}
