@@ -12,7 +12,7 @@ export default class GameboyEmulatorComponent extends BaseComponent {
         // Register the component
         plugin.objects.registerComponent(this, {
             id: 'gameboy',
-            name: 'Emulator - GameBoy',
+            name: 'Emulator - GameBoy (broken)',
             description: "Emulates a Gameboy and renders it onto a plane.",
             settings: [
                 { id: 'bundle-url', name: 'Bundle URL', type: 'text', help: `The URL to a .gb file.` }

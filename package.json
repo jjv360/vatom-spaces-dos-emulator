@@ -24,6 +24,7 @@
     "webpack-cli": "^4.9.2"
   },
   "dependencies": {
+    "base-64": "^1.0.0",
     "emulators": "^0.73.8",
     "gameboy-emulator": "^1.1.2",
     "vatom-spaces-plugins": "^1.1.4"
