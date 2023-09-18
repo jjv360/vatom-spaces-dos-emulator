@@ -2,14 +2,14 @@
   "id": "com.jjv360.emulators",
   "name": "Emulators",
   "version": "1.0.0",
-  "beta": true,
-  "personalPlugin": true,
-  "description": "Run game emulators in the Metaverse.",
-  "longDescription": ".",
-  "configuration": ".",
-  "category": "Games",
-  "businessId": ".",
+  "beta": false,
+  "pluginType": "Business",
+  "description": "Run game emulators",
+  "longDescription": "Run game emulators in the Metaverse.",
+  "configuration": "none",
+  "category": "Fun",
+  "businessId": "O1ZkDMRl68",
   "price": 0,
-  "releaseNotes": ".",
-  "entrypoint": ""
+  "releaseNotes": "Initial release",
+  "entrypoint": "https://plugins.vatom.com/O1ZkDMRl68/43d8b4f9b71248dfae931fa3d86d0827/plugin.js"
 }
